@@ -47,21 +47,11 @@ Would you like to request a feature? Please get in touch with me on [LinkedIn](h
 
 If you’d like to contribute code with a Pull Request, please make sure to follow code submission guidelines. Create your own branch and then pull a request.
 
-### Spread the word :hatched_chick:
-
-To learn more about me, join the conversation:
-- [LinkedIn](https://www.linkedin.com/in/utpal-barman/) 
-- [Skype](https://join.skype.com/invite/YKZe1ad0yuyK)
-- [Telegram](https://t.me/utpal_barman)
-- [Facebook](https://www.facebook.com/utpal777)
-- [Instagram](https://www.instagram.com/utpal_barman_/)
-
 ## Contributor
 
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<a href="https://www.linkedin.com/in/utpal-barman/"><img src="https://github.com/utpal-barman/ushop/raw/master/utpal-barman.png" width="100px;" alt=""/><br /><sub><b>Utpal Barman</b></sub></a>
 
 
 <!-- markdownlint-enable -->
