@@ -43,7 +43,7 @@ You can submit feedback and report bugs as Github issues. Please be sure to incl
 
 ### Request or submit a feature :postbox:
 
-Would you like to request a feature? Please get in touch with me on [LinkedIn](https://www.linkedin.com/in/utpal-barman/) , [Telegram](https://t.me/utpal_barman)
+Would you like to request a feature? Please get in touch with me on [LinkedIn](https://www.linkedin.com/in/senzo-mlambo-a40957195/]) 
 
 If you’d like to contribute code with a Pull Request, please make sure to follow code submission guidelines. Create your own branch and then pull a request.
 
